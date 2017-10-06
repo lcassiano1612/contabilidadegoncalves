@@ -1,0 +1,77 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	font-family: Open Sans;
+	text-decoration: none;
+}
+p{
+	font-size: 10pt;
+}
+
+#main{
+	display: grid;
+	grid-template-areas: "header" "banner" "empresa" "servico" "footer";
+}
+
+.header{
+	grid-area: header;
+	background: #ccc; 
+}
+
+.banner{
+	grid-area: banner;
+	background: #ccc; 
+}
+
+.empresa{
+	grid-area: empresa;
+	background: #f05f40; 
+}
+
+.servico{
+	grid-area: servico;
+	background: #fff; 
+}
+
+.footer{
+	grid-area: footer;
+	background: #fff; 
+}
+
+
+
+.empresa{
+	height: 350px;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.empresa hr{
+	width: 50px;
+    margin: 10px 0px 0px 0px;
+    border: 1px solid #fff;
+}
+.empresa h3{
+	text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    font-size: 20pt;
+}
+.empresa p{
+	width: 600px;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0px 0px 0px;
+}
+.empresa a{
+	background: #fff;
+    color: #f05f40;
+    padding: 15px 30px;
+    border-radius: 25px;
+    font-size: 10pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 20px 0px 0px 0px;
+}

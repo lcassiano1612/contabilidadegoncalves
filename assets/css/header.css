@@ -1,0 +1,35 @@
+.header{
+	grid-area: header;
+	background: #fff;
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 80px;
+}
+
+.menu{
+	display: flex;
+	align-items: center;
+}
+
+.menu > ul{
+	display: flex;
+}
+
+.menu > ul > li{
+	padding: 15px 20px;
+	color: #666;
+	font-size: 12pt;
+}
+
+.area-cliente{
+	background: #f05f40;
+    color: #fff !important;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.menu ul > li > a{
+    color: #666;
+    font-weight: bold;
+    opacity: .8;
+}

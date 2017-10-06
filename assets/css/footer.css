@@ -1,0 +1,38 @@
+.footer{
+	height: 400px;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid #666;
+}
+
+.footer h3{
+	text-transform: uppercase;
+    text-align: center;
+    color: #666;
+    font-size: 20pt;
+}
+
+.footer hr{
+    width: 50px;
+    margin: 10px 0px 0px 0px;
+    background: #666;
+    border: 1px solid #666;
+}
+
+.footer ul{
+	display: flex;
+	margin: 10px 0px 0px 0px;
+}
+
+.footer li{
+	text-align: center;
+	padding: 40px;
+	color: #f05f40;
+}
+
+.footer > p{
+	color: #666;
+    margin: 40px 0px 0px 0px;
+}

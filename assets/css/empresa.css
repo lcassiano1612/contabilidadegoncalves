@@ -1,0 +1,106 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-family: Open Sans;
+    text-decoration: none;
+}
+p{
+    font-size: 10pt;
+}
+
+#main{
+    display: grid;
+    grid-template-areas: "header" "formulario" "mapa" "footer";
+}
+
+.header{
+    grid-area: header;
+    background: #fff; 
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.empresa h2{
+    text-transform: uppercase;
+    color: #666;
+    font-size: 34pt;
+}
+.empresa h3{
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 24pt;
+    background: #f05f40;
+    margin: 40px 0px 0px 0px;
+    padding: 30px 0px 0px 0px;
+}
+.empresa h6{
+    font-size: 16pt;
+    margin: 30px 0px 30px 0px;
+    color: #f05f40;
+    opacity: 0.7;
+    font-weight: 300;
+}
+.empresa > p{
+    margin: 40px 0px 0px 0px;
+}
+.diferenciais-empresa{
+    display: flex;
+    background: #f05f40;
+    color: #fff;
+    padding: 40px;
+    margin: 0px 0px 40px 0px;
+    font-size: 12pt;
+}
+
+.diferenciais-empresa p{
+    font-weight: 300;
+}
+.linha-empresa{
+    border: 1px solid #666;
+    width: 50px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.linha-diferenciais{
+    border: 1px solid #fff;
+    width: 50px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.local-empresa{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 0px 0px 0px;
+}
+
+.dados-local-empresa li{
+    color: #f05f40;
+    padding: 20px;
+}
+
+.dados-local-empresa p{
+    color: #666;
+    font-weight: bold;
+    margin: 10px 0px 0px 0px;
+}
+
+.footer{
+    grid-area: footer;
+    background: #fff; 
+}
+.txt-local-empresa{
+    font-weight: bold;
+}
+
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.text-center{
+    text-align: center;
+}

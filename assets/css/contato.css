@@ -1,0 +1,120 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	font-family: Open Sans;
+	text-decoration: none;
+}
+p{
+	font-size: 10pt;
+}
+
+#main{
+	display: grid;
+	grid-template-areas: "header" "formulario" "mapa" "footer";
+}
+
+.header{
+	grid-area: header;
+	background: #fff; 
+	width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.formulario{
+	grid-area: formulario;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding: 20px 0px;
+}
+
+.formulario h2{
+	text-transform: uppercase;
+    color: #666;
+    font-size: 34pt;
+}
+
+.formulario p{
+	margin: 10px 0px 20px 0px;
+}
+
+.formulario form{
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.mapa{
+	grid-area: mapa;
+	background: #fff;
+	margin: 50px 0px 0px 0px;
+}
+
+.mapa > iframe{
+	width: 100%;
+	height: 400px;
+}
+
+.footer{
+	grid-area: footer;
+	background: #fff; 
+}
+
+
+
+.container{
+	width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.text-center{
+	text-align: center;
+}
+.input-form{
+	border: 0px;
+	background: #ccc;
+	padding: 10px 15px;
+	width: 675px;
+	opacity: 0.6;
+}
+.input-contato{
+	margin: 20px 0px 0px 0px;
+}
+
+.input-contato span{
+	font-size: 10pt;
+    font-weight: bold;
+    color: #666;
+}
+.input-contato textarea{
+	height: 150px;
+}
+.submit-form{
+	background: #f05f40;
+	border: 0px;
+	width: 100%;
+	padding: 15px;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: bold;
+}
+
+
+/* MODAL */
+.modal:target {
+	opacity: 1;
+	pointer-events: auto;
+}
+
+.modal > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 15px 20px;
+	background: #fff;
+}

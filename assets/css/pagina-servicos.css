@@ -1,0 +1,42 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+.container h4{
+    font-size: 28pt;
+    color: #666;
+}
+.container p{
+    color: #666;
+    font-size: 16pt;
+    font-weight: 300;
+    margin: 10px 0px 0px 0px;
+}
+.banner-servico{
+    background-image: url(../img/banner-servico.jpg);
+    background-position: 0px -70px;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.lista-servicos{
+    margin: 40px 0px 0px 0px;
+}
+.lista-servicos li{
+    display: flex;
+    box-shadow: 8px 8px 35px 0 rgba(0,0,0,0.15);
+    margin: 0px 0px 30px 0px;
+}
+.lista-servicos li div{
+    padding: 25px;
+}
+.lista-servicos li div h5{
+    font-size: 20pt;
+    color: #f05f40;
+}
+.lista-servicos li div p{
+    color: #666;
+    font-size: 12pt;
+}

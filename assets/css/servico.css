@@ -1,0 +1,47 @@
+.servico{
+	height: 350px;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.servico h3{
+	text-transform: uppercase;
+    text-align: center;
+    color: #666;
+    font-size: 20pt;
+}
+
+.servico hr{
+    width: 50px;
+    margin: 10px 0px 0px 0px;
+    background: #666;
+    border: 1px solid #666;
+}
+
+.servico i{
+    color: #f05f40;
+}
+
+.servico ul{
+    display: flex;
+    margin: 40px 0px 0px 0px;
+}
+
+.servico li{
+    width: 250px;
+    text-align: center;
+}
+
+.servico li h4{
+    color: #f05f40;
+    opacity: 0.7;
+}
+
+.servico li p{
+    color: #666;
+    margin: 15px 0px 0px 0px;
+    font-size: 10pt;
+}
+
