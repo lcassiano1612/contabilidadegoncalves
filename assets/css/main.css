@@ -61,9 +61,11 @@ p{
 }
 .empresa p{
 	width: 600px;
-    text-align: center;
-    color: #fff;
-    margin: 40px 0px 0px 0px;
+	text-align: center;
+	color: #fff;
+	margin: 40px 0px 0px 0px;
+	font-weight: 300;
+	font-size: 14pt;
 }
 .empresa a{
 	background: #fff;
