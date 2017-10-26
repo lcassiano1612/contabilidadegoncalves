@@ -1,5 +1,5 @@
 <header class="header">
-    <a href="index.html">
+    <a href="index.php">
         <img src="assets/img/logo.jpg" width="120" height="96" alt="Contabilidade Gonçalves">
     </a>
     <nav class="menu">
