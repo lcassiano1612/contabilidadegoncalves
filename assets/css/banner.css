@@ -1,7 +1,4 @@
 .banner{
-	background-image: url("../img/banner.jpg");
-	background-size: cover;
-	background-position: center;
 	display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +6,7 @@
     height: 450px;
 }
 
-.banner h2{
+.banner h3{
     text-transform: uppercase;
     text-align: center;
     color: #fff;
@@ -17,10 +14,9 @@
 }
 
 .banner p{
-    width: 600px;
     text-align: center;
     color: #fff;
-    margin: 40px 0px 0px 0px;
+    margin: 70px 0px 0px 0px;
     font-size: 18pt;
     font-weight: 300;
 }

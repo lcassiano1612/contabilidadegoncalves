@@ -29,9 +29,21 @@
     margin: 40px 0px 0px 0px;
 }
 
+.servico ul a:hover{
+    color: transparent;
+}
+
 .servico li{
     width: 250px;
     text-align: center;
+    transform: scale(0.8);
+    transition: 0.3s;
+}
+
+.servico li:hover{
+    width: 250px;
+    text-align: center;
+    transform: scale(1);
 }
 
 .servico li h4{

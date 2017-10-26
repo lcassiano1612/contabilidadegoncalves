@@ -1,0 +1,36 @@
+<link rel="import" href="../polymer/polymer-element.html">
+
+<dom-module id="sistema-app">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+    <h2>Hello [[prop1]]!</h2>
+  </template>
+
+  <script>
+    /**
+     * `sistema-app`
+     * 
+     *
+     * @customElement
+     * @polymer
+     * @demo demo/index.html
+     */
+    class SistemaApp extends Polymer.Element {
+      static get is() { return 'sistema-app'; }
+      static get properties() {
+        return {
+          prop1: {
+            type: String,
+            value: 'sistema-app'
+          }
+        };
+      }
+    }
+
+    window.customElements.define(SistemaApp.is, SistemaApp);
+  </script>
+</dom-module>

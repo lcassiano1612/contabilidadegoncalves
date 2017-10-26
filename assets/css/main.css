@@ -21,7 +21,6 @@ p{
 
 .banner{
 	grid-area: banner;
-	background: #ccc; 
 }
 
 .empresa{
@@ -76,4 +75,7 @@ p{
     font-weight: bold;
     text-transform: uppercase;
     margin: 20px 0px 0px 0px;
+}
+.empresa a:hover{
+	color: #f05f40;
 }

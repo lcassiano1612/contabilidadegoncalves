@@ -14,13 +14,13 @@ p{
 	grid-template-areas: "header" "formulario" "mapa" "footer";
 }
 
-.header{
+/*.header{
 	grid-area: header;
 	background: #fff; 
 	width: 1200px;
     margin: 0 auto;
     padding: 20px 0px;
-}
+}*/
 
 .formulario{
 	grid-area: formulario;
