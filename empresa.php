@@ -24,15 +24,15 @@
 					<ul class="diferenciais-empresa">
 						<li>
 							<h4>Atendimento</h4>
-							<p>Nossos profissionais são capacitados e sempre pronto para atender os nossos clientes da melhor maneira possivel.</p>
+							<p>Nossos profissionais são capacitados e estão sempre pronto para atender os nossos clientes da melhor maneira.</p>
 						</li>
 						<li>
 							<h4>Comunicação</h4>
-							<p>Para entregar o melhor serviço, estamos sempre on-line para lhe atender com os melhores serviços. </p>
+							<p>Para prestar o melhor serviço, estamos sempre on-line para lhe atender. </p>
 						</li>
 						<li>
 							<h4>Tecnologia</h4>
-							<p>Sempre buscando o melhor para nos e para nossos clientes, estamos sempre acompanhando as tendencias. </p>
+							<p>Buscando o melhor para nos e para nossos clientes, estamos sempre investindo em softwares de contabilidae e acessoria. </p>
 						</li>
 						<li>
 							<h4>Qualificação Técnica</h4>
@@ -45,11 +45,11 @@
 						<ul class="dados-local-empresa">
 							<li>
 								<i class="fa fa-map-marker fa-2x" aria-hidden="true"></i><div class="txt-local-empresa">Endereco:</div>
-								<p>Av. Armelinda Padula Pietrobom, 121 | 13140-248 | Jd. Itapoan - Paulínia</p>
+								<p>Av. Armelinda Padula Pietrobom, 121 | 13140-248 | Jardim Itapoan - Paulínia</p>
 							</li>
 							<li>
 								<i class="fa fa-phone fa-2x" aria-hidden="true"></i><div class="txt-local-empresa">Telefone:</div>
-								<p>(19) 3933-2317 | (19) 3874-1750</p>
+								<p>(19) 3933-2317</p>
 							</li>
 							<li>
 								<i class="fa fa-envelope fa-2x" aria-hidden="true"></i><div class="txt-local-empresa">E-mail:</div>

@@ -19,7 +19,7 @@
         <div class="banner-servico">
             <div class="container">
                 <h4>Conheça nossos serviços</h4>
-                <p>Estamos sempre evoluindo e melhorando.<br>Nossos serviços são feito com excelencias e competencia.</p>
+                <p>Estamos sempre evoluindo e melhorando.<br>Nossos serviços são feito com excelencia e competência.</p>
             </div>
         </div>
         <div class="container">
