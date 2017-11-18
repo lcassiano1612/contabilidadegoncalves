@@ -21,7 +21,6 @@
 				<ol class="carousel-indicators">
 					<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 					<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-					<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
 				</ol>
 				<div class="carousel-inner">
 					<div class="carousel-item active">
@@ -32,16 +31,9 @@
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img height="500" class="d-block w-100" src="assets/img/banner.jpg" alt="First slide">
+						<img height="500" class="d-block w-100" src="assets/img/banner2.jpg" alt="First slide">
 						<div class="banner carousel-caption d-none d-md-block">
-							<h3>SUA CONTABILIDADE A QUALQUER<br> HORA E EM QUALQUER LUGAR</h3>
-							<p>Somos uma empresa de serviços de contabilidade e assessoria especializada no atendimento online.</p>
-						</div>
-					</div>
-					<div class="carousel-item">
-						<img height="500" class="d-block w-100" src="assets/img/banner.jpg" alt="First slide">
-						<div class="banner carousel-caption d-none d-md-block">
-							<h3>SUA CONTABILIDADE A QUALQUER<br> HORA E EM QUALQUER LUGAR</h3>
+							<h3>COMECE A TRABALHAR COM A MELHOR<br> CONTABILIDADE DA REGIÃO</h3>
 							<p>Somos uma empresa de serviços de contabilidade e assessoria especializada no atendimento online.</p>
 						</div>
 					</div>
