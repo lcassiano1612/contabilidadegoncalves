@@ -1,5 +1,15 @@
 <?php
+    
+    $meu_email = "l.cassiano1612@gmail.com";
+    $assunto = "email de teste";
+    $mensagem = "mensagem no email de teste";
 
+    $email = "lucas.oliveira@ingressorapido.com.br";
+    $headers = 'From: '.$email;
+
+    mail( $meu_email, $assunto, $mensagem, $headers );
+
+    /*
     $mail_to      = "l.cassiano1612@gmail.com";
     $mail_subject = "Contato via formulario do site!";
     $mail_message = "minha mensagem!";
@@ -31,8 +41,8 @@
 
     }else {
 
-        echo "nao deu certo";
+        echo "nao deu certo";   
 
     }
-
+    */
 ?>
