@@ -21,25 +21,25 @@
 					<div class="input-contato">
 						<label>
 							<span>Nome:</span> <br>
-							<input class="input-form" type="text" name="nome">
+							<input class="input-form" type="text" name="nome" required>
 						</label>
 					</div>
 					<div class="input-contato">
 						<label>
 							<span>Telefone:</span> <br>
-							<input class="input-form" type="text" name="telefone">
+							<input class="input-form" type="text" name="telefone" required>
 						</label>
 					</div>
 					<div class="input-contato">
 						<label>
 							<span>E-mail:</span> <br>
-							<input class="input-form" type="text" name="nome">
+							<input class="input-form" type="email" name="nome" required>
 						</label>
 					</div>
 					<div class="input-contato">
 						<label>
 							<span>Mensagem:</span> <br>
-							<textarea class="input-form"></textarea>
+							<textarea class="input-form" required></textarea>
 						</label>
 					</div>
 					<div class="input-contato">
