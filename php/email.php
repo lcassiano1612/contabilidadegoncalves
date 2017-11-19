@@ -3,6 +3,8 @@
     $mail_to      = "l.cassiano1612@gmail.com";
     $mail_subject = "Contato via formulario do site!";
     $mail_message = "minha mensagem!";
+    $from_name = "Lucas de Oliveira";
+    $from_mail = "lucasoliveira@ingressorapido.com.br";
 
     $encoding = "utf-8";
 
