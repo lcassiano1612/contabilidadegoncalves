@@ -25,6 +25,14 @@
     $header .= iconv_mime_encode("Subject", $mail_subject, $subject_preferences);
 
     // Send mail
-    mail($mail_to, $mail_subject, $mail_message, $header);
+    if(mail($mail_to, $mail_subject, $mail_message, $header) ){
+
+        echo "deu certo";
+
+    }else {
+
+        echo "nao deu certo";
+
+    }
 
 ?>
