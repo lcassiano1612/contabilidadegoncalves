@@ -34,7 +34,7 @@
 						<img height="500" class="d-block w-100" src="assets/img/banner2.jpg" alt="First slide">
 						<div class="banner carousel-caption d-none d-md-block">
 							<h3>COMECE A TRABALHAR COM A MELHOR<br> CONTABILIDADE DA REGIÃO</h3>
-							<p>Somos uma empresa de serviços de contabilidade e assessoria especializada no atendimento online.</p>
+							<p>Somos uma empresa de serviços de contabilidade constituída por profissionais com larga experiência nas áreas de gestão empresarial.</p>
 						</div>
 					</div>
 				</div>
