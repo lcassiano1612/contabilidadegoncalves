@@ -11,7 +11,7 @@
     $email      = "lucas.oliveira@ingressorapido.com.br";
     $headers    = 'From: '.$email;
 
-    if(mail( "atendimento@contabilidadegoncalves.com.br" , $assunto, $mensagem, $headers)){
+    if(mail( "l.cassiano1612@gmail.com" , $assunto, $mensagem, $headers)){
 
         echo "deu certo";
 
