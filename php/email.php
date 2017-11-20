@@ -22,17 +22,6 @@
     
     $subject = "Contato via site";
 
-    $status = mail($email_to, $subject, $corpo, $headers);
-    //enviando o email.
-    
-    if ($status) {
-        echo "<script> alert('Formulário enviado com sucesso!'); </script>";
-    //mensagem de form enviado com sucesso.
-    
-    } else {
-        echo "<script> alert('Falha ao enviar o Formulário.'); </script>";
-    //mensagem de erro no envio. 
-    
-    }
+    mail($email_to, $subject, $corpo, $headers);
 
 ?>

@@ -9,7 +9,12 @@ $( ".submit-form" ).click(function(e) {
 
     $.post('../php/email.php',{ nome: nome, telefone: telefone, email: email, mensagem: mensagem },function(data){
     
-        alert(data);
+        $("input[name=nome]").val("");
+        $("input[name=telefone]").val("");
+        $("input[name=email]").val("");
+        $("textarea[name=mensagem]").val("");
+
+        $('.email-enviado').modal('show');
     
     });
 
