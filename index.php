@@ -50,7 +50,7 @@
 			<section class="empresa">
 				<h3>Conheça a nossa empresa</h3>
 				<hr>
-				<p>Somos uma organização que tem por objetivo assessorar e atender às necessidades dos nossos clientes visando a redução direta de custos e maior lucratividade com os novos planejamentos gerenciais que permitam a tomada de decisões estratégicas.</p>
+				<p>Somos um escritorio de contabilidade que tem por objetivo assessorar e atender às necessidades dos nossos clientes visando a redução direta de custos e maior lucratividade.</p>
 				<a href="empresa.php">saiba mais</a>
 			</section>
 			<section class="servico">

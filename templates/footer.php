@@ -1,7 +1,7 @@
 <footer class="footer">
-    <h3>Para melhor atende-lo temos <br>os seguintes contatos</h3>
+    <h3>Para melhor atendê-lo temos <br>os seguintes contatos</h3>
     <hr>
-    <p>A contabilidade Gonçalves está sempre pronta para atender.</p>
+    <p>A Contabilidade Gonçalves está sempre pronta para atender.</p>
     <ul>
         <li>
             <i class="fa fa-phone fa-3x" aria-hidden="true"></i>

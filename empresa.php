@@ -19,13 +19,14 @@
 				<div class="container text-center">
 					<h2 class="text-center">A Empresa</h2>
 					<hr class="linha-empresa">
-					<h6 class="subtitulo">Com a missão de ser um dos melhores escritórios de contabilidade, a contabilidade Gonçalves investe continuamente em Conhecimento e Tecnologia.</h6>
-					<p class="">Seguimos o princípio básico da prestação de serviços de qualidade técnica, dispondo de ferramentas avançadas, seja no preparo do nosso pessoal técnico ou na disponibilidade de equipamentos de última geração, visando total tranquilidade e precisão de informações para o pleno desenvolvimento do empresário em sua atividade principal.</p>
+					<h6 class="subtitulo">Com a missão de ser um dos melhores escritórios de contabilidade, a Contabilidade Gonçalves investe continuamente em Conhecimento e Tecnologia.</h6>
+					<p>Trabalhamos também com a contabilidade online, a Contabilidade Gonçalves pode ser acessada através do seu computador, tablete ou mobile em qualquer momento. O sistema é responsivo e consegue se adaptar a diferentes telas garantindo acesso 24 horas por dia em qualquer plataforma.</p>
+					<p>Buscamos estabelecer uma relação transparente com os clientes, oferecendo serviços de qualidade. Estamos à disposição para esclarecer eventuais dúvidas e aguardamos o seu contato.</p>
 					<h3 class="text-center">Nossos diferenciais</h3>
 					<ul class="diferenciais-empresa">
 						<li>
 							<h4>Atendimento</h4>
-							<p>Nossos profissionais são capacitados e estão sempre pronto para atender os nossos clientes da melhor maneira.</p>
+							<p>Profissionais capacitados e sempre pronto para atender aos clientes com eficiência.</p>
 						</li>
 						<li>
 							<h4>Comunicação</h4>
@@ -33,11 +34,11 @@
 						</li>
 						<li>
 							<h4>Tecnologia</h4>
-							<p>Buscando o melhor para nos e para nossos clientes, estamos sempre investindo em softwares de contabilidae e acessoria. </p>
+							<p>Buscando o melhor para os clientes estamos sempre investindo em softwares de contabilidae e assessoria. </p>
 						</li>
 						<li>
 							<h4>Qualificação Técnica</h4>
-							<p>Temos profissionais capacitados e tecnicamente preparados para melhor atender todos os clientes. </p>
+							<p>Profissionais capacitados e preparados para melhor atender todos os clientes. </p>
 						</li>
 					</ul>
 					<h2 class="text-center" style="font-size: 24pt;">Onde estamos</h2>
@@ -46,7 +47,7 @@
 						<ul class="dados-local-empresa">
 							<li>
 								<i class="fa fa-map-marker fa-2x" aria-hidden="true"></i><div class="txt-local-empresa">Endereco:</div>
-								<p>Av. Armelinda Padula Pietrobom, 121 | 13140-248 | Jardim Itapoan - Paulínia</p>
+								<p>Av. Armelinda Padula Pietrobom, 121 | 13140-248 | Jd Itapoan - Paulínia</p>
 							</li>
 							<li>
 								<i class="fa fa-phone fa-2x" aria-hidden="true"></i><div class="txt-local-empresa">Telefone:</div>
