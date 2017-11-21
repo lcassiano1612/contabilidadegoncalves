@@ -8,7 +8,7 @@
             <li><a href="empresa.php">empresa</a></li>
             <li><a href="servicos.php">serviços</a></li>
             <li><a href="contato.php">contato</a></li>
-            <li><a class="area-cliente" data-toggle="modal" data-target="#exampleModal" href="#login">Área do cliente</a></li>
+            <!--<li><a class="area-cliente" data-toggle="modal" data-target="#exampleModal" href="#login">Área do cliente</a></li>-->
         </ul>
     </nav>
 </header>
