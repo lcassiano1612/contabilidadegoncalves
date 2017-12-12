@@ -24,6 +24,9 @@
 .lista-servicos{
     margin: 40px 0px 0px 0px;
 }
+.lista-servicos a:hover{
+    text-decoration: none !important;
+}
 .lista-servicos li{
     display: flex;
     box-shadow: 8px 8px 35px 0 rgba(0,0,0,0.15);
@@ -39,4 +42,10 @@
 .lista-servicos li div p{
     color: #666;
     font-size: 12pt;
+}
+.item_lista-servicos {
+    display: block;
+    margin: 15px 0px !important;
+    box-shadow: 8px 8px 35px 0 rgba(0,0,0,0) !important;
+    color: #666;
 }

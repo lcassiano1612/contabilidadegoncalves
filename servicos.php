@@ -26,39 +26,47 @@
         <div class="container">
             <h4 class="text-center">Nossos serviços</h4>
             <ul class="lista-servicos">
-                <li>
-                    <img src="assets/img/area-contabil.jpg">
-                    <div>
-                        <h5>Area Contabil</h5>
-                        <p>Classificação e escrituração da Contabilidade de acordo com as normas e princípios contábeis vigentes;</p>
-                        <p>Apuração de balancetes;</p>
-                        <p>Elaboração do Balanço Anual e Demonstrativo de Resultados.</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <h5>Area Fiscal</h5>
-                        <p>Escrituração dos registros fiscais do IPI, ICMS, ISS e elaboração das guias de recolhimento dos tributos devidos;</p>
-                    </div>
-                    <img src="assets/img/area-fiscal.jpg">
-                </li>
-                <li>
-                    <img src="assets/img/imposto-renda.jpg">
-                    <div>
-                        <h5>Imposto de Renda</h5>
-                        <p>Orientação e controle de aplicação dos dispositivos legais vigentes;</p>
-                        <p>Elaboração da Declaração Anual de Rendimentos e documentos correlatos;</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <h5>Área Trabalhista</h5>
-                        <p>Orientação e controle de aplicação dos preceitos da Consolidação das Leis do Trabalho, bem como aqueles pertinentes à Previdência Social, “PIS”, “FGTS” e outros aplicáveis em relação aos funcionários mantidos;</p>
-                        <p>Manutenção dos registros de empregados e serviços correlatos;</p>
-                        <p>Elaboração da folha de pagamento dos empregados e de pró-labore, bem como das guias de recolhimento dos encargos sociais e tributos afins;</p>
-                    </div>
-                    <img src="assets/img/area-trabalhista.jpg">
-                </li>
+                <a href="servicos/area-contabil.php">
+                    <li>
+                        <img src="assets/img/area-contabil.jpg">
+                        <div>
+                            <h5>Área Contabil</h5>
+                            <p>Classificação e escrituração da Contabilidade de acordo com as normas e princípios contábeis vigentes;</p>
+                            <p>Apuração de balancetes;</p>
+                            <p>Elaboração do Balanço Anual e Demonstrativo de Resultados.</p>
+                        </div>
+                    </li>
+                </a>
+                <a href="servicos/area-fiscal.php">
+                    <li>
+                        <div>
+                            <h5>Área Fiscal e Tributário</h5>
+                            <p>Escrituração dos registros fiscais do IPI, ICMS, ISS e elaboração das guias de recolhimento dos tributos devidos;</p>
+                        </div>
+                        <img src="assets/img/area-fiscal.jpg">
+                    </li>
+                </a>
+                <a href="#">
+                    <li>
+                        <img src="assets/img/imposto-renda.jpg">
+                        <div>
+                            <h5>Área trabalhista e previdenciária</h5>
+                            <p>Orientação e controle de aplicação dos dispositivos legais vigentes;</p>
+                            <p>Elaboração da Declaração Anual de Rendimentos e documentos correlatos;</p>
+                        </div>
+                    </li>
+                </a>
+                <a href="#">
+                    <li>
+                        <div>
+                            <h5>Legislação societária e imposto de renda da pessoa jurídica</h5>
+                            <p>Orientação e controle de aplicação dos preceitos da Consolidação das Leis do Trabalho, bem como aqueles pertinentes à Previdência Social, “PIS”, “FGTS” e outros aplicáveis em relação aos funcionários mantidos;</p>
+                            <p>Manutenção dos registros de empregados e serviços correlatos;</p>
+                            <p>Elaboração da folha de pagamento dos empregados e de pró-labore, bem como das guias de recolhimento dos encargos sociais e tributos afins;</p>
+                        </div>
+                        <img src="assets/img/area-trabalhista.jpg">
+                    </li>
+                </a>
             </ul>
         </div>
     </section>
