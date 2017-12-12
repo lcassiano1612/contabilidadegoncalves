@@ -1,6 +1,6 @@
 <header class="header">
     <a href="index.php">
-        <img src="assets/img/logo.jpg" width="120" height="96" alt="Contabilidade Gonçalves">
+        <img src="https://www.contabilidadegoncalves.com.br/assets/img/logo.jpg" width="120" height="96" alt="Contabilidade Gonçalves">
     </a>
     <nav class="menu">
         <ul>

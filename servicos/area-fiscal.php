@@ -8,6 +8,11 @@
     <link rel="stylesheet" href="../assets/css/empresa.css">
     <link rel="stylesheet" href="../assets/css/pagina-servicos.css">
     <link rel="stylesheet" href="../assets/css/footer.css">
+    <style>
+        .banner-servico{
+            background-image: url(../img/bg-servicos.jpg);
+        }
+    </style>
     <script src="https://use.fontawesome.com/1d232ea5d2.js"></script>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">

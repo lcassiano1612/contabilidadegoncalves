@@ -46,7 +46,7 @@
                         <img src="assets/img/area-fiscal.jpg">
                     </li>
                 </a>
-                <a href="#">
+                <a href="servicos/area-trabalhista.php">
                     <li>
                         <img src="assets/img/imposto-renda.jpg">
                         <div>
@@ -56,7 +56,7 @@
                         </div>
                     </li>
                 </a>
-                <a href="#">
+                <a href="servicos/legislação-e-imposto.php">
                     <li>
                         <div>
                             <h5>Legislação societária e imposto de renda da pessoa jurídica</h5>
